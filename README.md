@@ -2,3 +2,4 @@
 [Python] Cross-chain bridge fee estimator & simulator
 - Update note 1002
 - Update note 1384
+- Update note 6621
