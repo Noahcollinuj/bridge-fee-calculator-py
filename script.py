@@ -72,3 +72,4 @@
 # fix 6416
 # fix 3574
 # fix 9391
+# optimize 6874
