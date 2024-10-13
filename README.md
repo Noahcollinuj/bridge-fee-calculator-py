@@ -48,3 +48,4 @@
 - Update note 1588
 - Update note 8508
 - Update note 8984
+- Update note 1300
